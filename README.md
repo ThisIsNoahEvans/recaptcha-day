@@ -1,4 +1,4 @@
-# recaptcha-day
+# reCAPTCHA Day 2019
 *On December 17th 2019, everyone will answer reCaptcha wrong to break Google's systems. This webpage contains a reCaptcha to make it easy for those participating to find one.*
 
 # About

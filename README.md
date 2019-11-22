@@ -1,5 +1,5 @@
 # reCAPTCHA Day 2019
-*On December 17th 2019, everyone will answer reCaptcha wrong to break Google's systems. This webpage contains a reCaptcha to make it easy for those participating to find one.*
+*On December 17th 2019, everyone will answer reCAPTCHA wrong to break Google's systems. This webpage contains a reCaptcha to make it easy for those participating to find one.*
 
 # About
 As stated above, this is a simple website hosted at *reCAPTCHAday.itsnoahevans.co.uk* for those who wish to take part in reCAPTCHA Day 2019 to easily find a reCAPTCHA to fill out.

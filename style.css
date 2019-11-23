@@ -1,0 +1,20 @@
+
+/* Light mode */
+@media (prefers-color-scheme: light) {
+    body {
+        background-color: white;
+        color: black;
+        //font-family: 'arial', monospace; I commented this bc it made the website look the same if you want you can change them
+        //font-size: 18px;
+    }
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: black;
+        color: white;
+  	//font-family: 'arial', monospace; I commented this bc it made the website look the same if you want you can change them
+  	//font-size: 18px;
+    }
+  }
